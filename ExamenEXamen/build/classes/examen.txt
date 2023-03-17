@@ -1,0 +1,14 @@
+:p;Esta es una pregunta
+:op1;a
+:op2;b
+:op3;c
+:op4;d
+:r;a
+2
+:p;Esta es una pregunta2
+:op1;a2
+:op2;b2
+:op3;c2
+:op4;d2
+:r;a2
+2
